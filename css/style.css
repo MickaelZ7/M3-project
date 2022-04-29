@@ -153,12 +153,14 @@ header img {
 }
 
 .part-6 h1 {
+    font-family: 'inter';
     font-weight: 600;
     font-size: 32px;
     line-height: -20px;
 }
 
 .part-6 p {
+    font-family: 'inter';
     font-weight: 400;
     font-size: 16px;
     line-height: 24px;
