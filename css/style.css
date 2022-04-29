@@ -166,4 +166,30 @@ header img {
     line-height: 24px;
 }
 
+footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: black;
+    padding: 38px 0;
+}
+
+.logo {
+    display: flex;
+    list-style: none;
+    margin-bottom: 16px;
+}
+
+footer li {
+    margin: 0 8px;
+}
+
+footer p {
+    font-weight: 400;
+font-size: 10px;
+line-height: 12px;
+text-transform: uppercase;
+color: #BDBDBD;
+}
+
 
